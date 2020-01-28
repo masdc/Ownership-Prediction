@@ -1,2 +1,4 @@
 horovod==0.18.*
 --no-binary=horovod
+pmdarima
+fbprophet
