@@ -1,4 +1,4 @@
-name: PropertyPrediction
+name: OwnershipPrediction
 
 channels:
   - defaults
