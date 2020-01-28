@@ -5,8 +5,6 @@ Repository containing scaffolding for Python 3-based data science projects insid
 
 ## Project organization
 
-Project organization is based on ideas from [_Good Enough Practices for Scientific Computing_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
-
 1. Put each project in its own directory, which is named after the project.
 2. Put external scripts or compiled programs in the `bin` directory.
 3. Put raw data and metadata in a `data` directory.
