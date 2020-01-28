@@ -1,10 +1,7 @@
-# Tensor Flow 2.0 Data Science Python Template
+# Data Science Python Template
 
-Repository containing scaffolding for a Python 3-based data science project using on the [TensorFlow](https://www.tensorflow.org/) ecosystem. 
+Repository containing scaffolding for Python 3-based data science projects inside Ecopetrol.
 
-## Creating a new project from this template
-
-Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
 
 ## Project organization
 
