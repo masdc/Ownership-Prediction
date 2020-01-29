@@ -1,5 +1,3 @@
-horovod==0.18.*
---no-binary=horovod
 pmdarima==1.3.0
 xgboost==0.90
 fbprophet==0.5
