@@ -14,4 +14,4 @@ dependencies:
   - pandas=0.25.1
   - numpy=1.16.5
   - joblib=0.13.2
-  - xgboost=0.9
+
