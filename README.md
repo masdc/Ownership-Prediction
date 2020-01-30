@@ -38,6 +38,8 @@ $ conda activate ./env
 (/path/to/env) $
 ```
 
+Once the environments is activated you are ready to start working on your own python scripts.
+
 Note that the `./env` directory is *not* under version control as it can always be re-created from 
 the `./bin/create-conda-environment.sh` file as necessary.
 
